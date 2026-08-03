@@ -35,10 +35,5 @@
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PatrickCalorioCarvalho&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickCalorioCarvalho&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" />
 </div>
