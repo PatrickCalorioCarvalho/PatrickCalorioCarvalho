@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
-    <img height="180em" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/PatrickCalorioCarvalho">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -36,4 +30,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
+    <img height="360em" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" />
+  </a>
 </div>
