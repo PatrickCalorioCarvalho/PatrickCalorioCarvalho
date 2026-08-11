@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
   <img
     align="left"
-    width="50%"
+    width="30%"
     src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png"
   />
 </a>
