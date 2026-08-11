@@ -21,19 +21,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Cloutrik">
-    <img width="480" src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
   <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
     <img height="360em" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" />
   </a>
+  <a href="https://github.com/Cloutrik">
+    <img width="480" src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" />
 </div>
+
