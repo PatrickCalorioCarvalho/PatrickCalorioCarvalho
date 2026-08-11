@@ -32,7 +32,7 @@
 
 <a href="https://github.com/Cloutrik">
   <img
-    width="47%"
+    width="50%"
     src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg"
   />
 </a>
@@ -40,7 +40,7 @@
 <br>
 
 <img
-width="47%"
+width="50%"
 src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true"
 />
 
