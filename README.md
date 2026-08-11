@@ -29,17 +29,12 @@
         <img src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" width="100%">
       </a>
     </td>
-
     <td width="45%" align="center" valign="middle" style="border: none;">
-
       <a href="https://github.com/Cloutrik">
         <img src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" width="100%">
       </a>
-
       <br><br>
-
-      <img src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" width="100%">
-
+      <zmg src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" width="100%">
     </td>
   </tr>
 </table>
