@@ -25,14 +25,14 @@
 <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
   <img
     align="left"
-    width="55%"
+    width="50%"
     src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png"
   />
 </a>
 
 <a href="https://github.com/Cloutrik">
   <img
-    width="42%"
+    width="47%"
     src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg"
   />
 </a>
@@ -40,12 +40,10 @@
 <br>
 
 <img
-  width="42%"
-  src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true"
+width="47%"
+src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true"
 />
 
 </div>
 
 <br clear="all">
-
-
