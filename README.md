@@ -22,34 +22,29 @@
 
 <div align="center">
 
-<div style="display:flex; align-items:center; justify-content:center; gap:12px;">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" align="center" valign="middle" style="border: none;">
+      <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
+        <img src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" width="100%">
+      </a>
+    </td>
 
-<div style="width:55%;">
-  <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
-    <img width="100%" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" />
-  </a>
-</div>
+    <td width="45%" align="center" valign="middle" style="border: none;">
 
-<div style="width:45%;">
+      <a href="https://github.com/Cloutrik">
+        <img src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" width="100%">
+      </a>
 
-<div>
-  <a href="https://github.com/Cloutrik">
-    <img width="100%" src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" />
-  </a>
-</div>
+      <br><br>
 
-<br>
+      <img src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" width="100%">
 
-<div>
-  <img width="100%" src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" />
-</div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-</div>
-
 
 
 
