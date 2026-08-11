@@ -31,7 +31,7 @@
 </a>
 
 <br/>
-<br/>
+
 <a href="https://github.com/Cloutrik">
   <img
     width="55%"
@@ -39,7 +39,6 @@
   />
 </a>
 
-<br>
 <br>
 <br>
 
