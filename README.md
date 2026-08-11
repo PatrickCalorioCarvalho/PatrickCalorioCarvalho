@@ -22,24 +22,30 @@
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" align="center" valign="middle" style="border: none;">
-      <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
-        <img src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" width="100%">
-      </a>
-    </td>
-    <td width="45%" align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/Cloutrik">
-        <img src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" width="100%">
-      </a>
-      <br><br>
-      <zmg src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" width="100%">
-    </td>
-  </tr>
-</table>
+<a href="https://www.youtube.com/@PatrickCalorioCarvalho">
+  <img
+    align="left"
+    width="55%"
+    src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png"
+  />
+</a>
+
+<a href="https://github.com/Cloutrik">
+  <img
+    width="42%"
+    src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg"
+  />
+</a>
+
+<br>
+
+<img
+  width="42%"
+  src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true"
+/>
 
 </div>
 
+<br clear="all">
 
 
