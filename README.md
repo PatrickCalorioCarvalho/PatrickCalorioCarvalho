@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
-    <img height="180em" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/main/IamRoot.png" />
+    <img height="180em" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" />
   </a>
 </div>
 
