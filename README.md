@@ -22,28 +22,31 @@
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td rowspan="2" width="50%" align="center" valign="middle">
+<div style="display:flex; align-items:center; justify-content:center; gap:12px;">
+
+<div style="width:55%;">
   <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
     <img width="100%" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" />
   </a>
-</td>
+</div>
 
-<td width="50%" align="center">
+<div style="width:45%;">
+
+<div>
   <a href="https://github.com/Cloutrik">
     <img width="100%" src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" />
   </a>
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%" align="center">
+<br>
+
+<div>
   <img width="100%" src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" />
-</td>
-</tr>
+</div>
 
-</table>
+</div>
+
+</div>
 
 </div>
 
