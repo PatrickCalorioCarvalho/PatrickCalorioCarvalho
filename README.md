@@ -21,26 +21,32 @@
 <br/>
 
 <div align="center">
-  <table>
-  <tr>
-    <td rowspan="2" width="50%" align="center">
-      <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
-        <img width="100%" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Cloutrik">
-        <img width="100%" src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" />
-      </a>
-    </td>
-  </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td rowspan="2" width="50%" align="center" valign="middle">
+  <a href="https://www.youtube.com/@PatrickCalorioCarvalho">
+    <img width="100%" src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png" />
+  </a>
+</td>
+
+<td width="50%" align="center">
+  <a href="https://github.com/Cloutrik">
+    <img width="100%" src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true" />
+</td>
+</tr>
+
+</table>
+
 </div>
+
 
 
 
