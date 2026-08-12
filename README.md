@@ -26,7 +26,7 @@
   <img
     align="left"
     width="40%"
-    src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.gif"
+    src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png"
   />
 </a>
 
