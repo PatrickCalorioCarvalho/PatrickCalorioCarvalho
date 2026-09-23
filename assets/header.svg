@@ -1,0 +1,36 @@
+<svg width="700" height="150" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: Consolas, 'Courier New', monospace;
+      font-size: 32px;
+      font-weight: 700;
+      fill: #39ff88;
+      filter: drop-shadow(0 0 6px rgba(57, 255, 136, .55));
+      animation: glow 3.2s ease-in-out infinite;
+    }
+    .prompt { fill: #2ecf70; opacity: .85; }
+    .cursor { fill: #39ff88; animation: blink 1.1s steps(1) infinite; }
+    .sub {
+      font-family: Consolas, 'Courier New', monospace;
+      font-size: 15px;
+      fill: #7f97a6;
+    }
+    .sub .accent { fill: #39ff88; opacity: .8; }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes glow {
+      0%, 100% { filter: drop-shadow(0 0 4px rgba(57, 255, 136, .35)); }
+      50% { filter: drop-shadow(0 0 10px rgba(57, 255, 136, .7)); }
+    }
+  </style>
+
+  <rect width="700" height="150" rx="14" fill="#14171b"/>
+  <circle cx="28" cy="28" r="6" fill="#ff5f57"/>
+  <circle cx="48" cy="28" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="28" r="6" fill="#28c840"/>
+
+  <text x="30" y="88" class="title"><tspan class="prompt">&gt; </tspan>Patrick Calorio Carvalho<tspan class="cursor">_</tspan></text>
+  <text x="32" y="120" class="sub"><tspan class="accent">// </tspan>side-projects, homelab e automação</text>
+</svg>

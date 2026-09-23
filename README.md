@@ -1,15 +1,34 @@
 
 <div align="center">
 
-<a href="https://www.youtube.com/@PatrickCalorioCarvalho">
-  <img
-    align="left"
-    width="40%"
-    src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/refs/heads/main/IamRoot.png"
-  />
-</a>
+<img
+  src="https://raw.githubusercontent.com/PatrickCalorioCarvalho/PatrickCalorioCarvalho/main/assets/header.svg"
+  alt="Patrick Calorio Carvalho"
+  width="600"
+/>
 
 <br/>
+<br/>
+
+[🌐 Portfólio](https://patrickcaloriocarvalho.github.io/) · [▶️ YouTube](https://www.youtube.com/@PatrickCalorioCarvalho)
+
+</div>
+
+<br/>
+
+## 🔧 Mexendo agora
+
+- [Tião Garagem](https://github.com/PatrickCalorioCarvalho/TiaoGaragem) — diário de bordo offline para carro e moto
+- [StrideClash](https://github.com/PatrickCalorioCarvalho/StrideClash) — conquiste território real caminhando, com GPS e PostGIS
+- [RackTop](https://github.com/PatrickCalorioCarvalho/RackTop) — htop moderno para homelab: CPU, Docker, GPU e Proxmox num só terminal
+- [HomeLabDevelopment](https://github.com/PatrickCalorioCarvalho/HomeLabDevelopment) — Proxmox, Terraform e Ansible provisionando um homelab com GPU
+- [DocsSync](https://github.com/PatrickCalorioCarvalho/DocsSync) / [DocsSyncCLI](https://github.com/PatrickCalorioCarvalho/DocsSyncCLI) — documentation as code sincronizada automaticamente
+
+Todos os projetos, com mais detalhes, ficam documentados no [portfólio](https://patrickcaloriocarvalho.github.io/).
+
+<br/>
+
+<div align="center">
 
 <a href="https://github.com/Cloutrik">
   <img
@@ -28,9 +47,6 @@ src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical
 
 </div>
 
-<br clear="all">
-
-<br/>
 <br/>
 
 <div align="center">
@@ -41,4 +57,3 @@ src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
-
