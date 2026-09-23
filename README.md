@@ -10,7 +10,12 @@
 <br/>
 <br/>
 
-[🌐 Portfólio](https://patrickcaloriocarvalho.github.io/) · [▶️ YouTube](https://www.youtube.com/@PatrickCalorioCarvalho)
+<a href="https://patrickcaloriocarvalho.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+<a href="https://www.youtube.com/@PatrickCalorioCarvalho">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 </div>
 
