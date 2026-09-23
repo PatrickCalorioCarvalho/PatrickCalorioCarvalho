@@ -30,11 +30,11 @@
 
 ## 🔧 Mexendo agora
 
-- [Tião Garagem](https://github.com/PatrickCalorioCarvalho/TiaoGaragem) — diário de bordo offline para carro e moto
-- [StrideClash](https://github.com/PatrickCalorioCarvalho/StrideClash) — conquiste território real caminhando, com GPS e PostGIS
-- [RackTop](https://github.com/PatrickCalorioCarvalho/RackTop) — htop moderno para homelab: CPU, Docker, GPU e Proxmox num só terminal
-- [HomeLabDevelopment](https://github.com/PatrickCalorioCarvalho/HomeLabDevelopment) — Proxmox, Terraform e Ansible provisionando um homelab com GPU
-- [DocsSync](https://github.com/PatrickCalorioCarvalho/DocsSync) / [DocsSyncCLI](https://github.com/PatrickCalorioCarvalho/DocsSyncCLI) — documentation as code sincronizada automaticamente
+- 🚗 [Tião Garagem](https://github.com/PatrickCalorioCarvalho/TiaoGaragem) — diário de bordo offline para carro e moto
+- 🏃 [StrideClash](https://github.com/PatrickCalorioCarvalho/StrideClash) — conquiste território real caminhando, com GPS e PostGIS
+- 🖥️ [RackTop](https://github.com/PatrickCalorioCarvalho/RackTop) — htop moderno para homelab: CPU, Docker, GPU e Proxmox num só terminal
+- 🏠 [HomeLabDevelopment](https://github.com/PatrickCalorioCarvalho/HomeLabDevelopment) — Proxmox, Terraform e Ansible provisionando um homelab com GPU
+- 📚 [DocsSync](https://github.com/PatrickCalorioCarvalho/DocsSync) / [DocsSyncCLI](https://github.com/PatrickCalorioCarvalho/DocsSyncCLI) — documentation as code sincronizada automaticamente
 
 Todos os projetos, com mais detalhes, ficam documentados no [portfólio](https://patrickcaloriocarvalho.github.io/).
 
@@ -44,12 +44,12 @@ Todos os projetos, com mais detalhes, ficam documentados no [portfólio](https:/
 
 <a href="https://github.com/Cloutrik">
   <img
-    width="48%"
+    height="180"
     src="https://raw.githubusercontent.com/Cloutrik/CLKScore/refs/heads/master/data/certificates/PatrickCalorioCarvalho.svg"
   />
 </a>
 <img
-  width="48%"
+  height="180"
   src="https://streak-stats.demolab.com/?user=PatrickCalorioCarvalho&theme=radical&hide_border=true"
 />
 
